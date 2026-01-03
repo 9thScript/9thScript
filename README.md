@@ -23,10 +23,11 @@ I’m a **Computer Science student** at the **Technological Institute of the Phi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9thScript&show_icons=true&theme=default&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9thScript&layout=compact&theme=default&cache_seconds=86400" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9thScript&theme=zenburn" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9thScript&theme=zenburn" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9thScript&theme=zenburn&utcOffset=8" width="32%" />
+</div>
 
 ---
 
