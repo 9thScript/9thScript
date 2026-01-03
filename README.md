@@ -1,6 +1,6 @@
 # Hi, I’m Clarence 👋
 
-I’m a **Computer Science student** at the **Technological Institute of the Philippines - Quezon City** with a strong interest in **data science, machine learning, and software development**.
+I’m a **Computer Science student** at the **Technological Institute of the Philippines - Quezon City** with a strong interest in **data science, machine learning, and software development**. I enjoy building data-driven systems and applications that solve real-world problems.
 
 ---
 
