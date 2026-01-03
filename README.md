@@ -1,25 +1,6 @@
 # Hi, I’m Clarence 👋
 
 I’m a **Computer Science student** at the **Technological Institute of the Philippines - Quezon City** with a strong interest in **data science, machine learning, and software development**.
----
-
-## 🛠 Technical Skills
-
-**Languages:**  
-Python, Java, JavaScript, Dart, SQL  
-
-**Frameworks & Libraries:**  
-React, Flutter, Django, FastAPI, Flask, Scikit-learn, PySpark, NeuralProphet, XGBoost, Prophet  
-
-**Developer Tools:**  
-Visual Studio Code, Android Studio, GitHub, MySQL Workbench  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
 
 ---
 
@@ -34,8 +15,16 @@ Visual Studio Code, Android Studio, GitHub, MySQL Workbench
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9thScript&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9thScript&layout=compact&theme=default)
 
 ---
 
